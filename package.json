@@ -20,5 +20,8 @@
     "lodash": "4.2.1",
     "slack-node": "^0.2.0",
     "twilio": "3.3.0-edge"
+  },
+  "devDependencies": {
+    "awsbox": "^0.7.0"
   }
 }
